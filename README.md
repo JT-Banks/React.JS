@@ -1,2 +1,4 @@
 # React.JS
-Learning React
+## Learning React
+
+Experimenting with learning React.js
